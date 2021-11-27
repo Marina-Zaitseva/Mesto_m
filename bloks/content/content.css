@@ -1,0 +1,10 @@
+.content {
+  border: 1px red solid;
+  margin: auto;
+  
+  width: 100%;
+  background-color: rebeccapurple;
+  background-image: url(https://www.lifeofpix.com/wp-content/uploads/2021/10/adrien-olichon-piqsczmYs3Q-unsplash-1600x2400.jpg);
+  background-repeat: no-repeat;
+  background-size: initial;
+}
